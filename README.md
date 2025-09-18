@@ -1,3 +1,4 @@
+root cd kafka_2.13-3.7.0
 1️⃣ ZooKeeper startup
 Command you ran:
 
